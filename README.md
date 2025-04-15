@@ -30,10 +30,10 @@ To reduce bias and variance, and build a powerful model that learns from the mis
                                   
                                        CatBoost	    :    Handles categorical data well, faster training
 
+ ======================================================
  
+Logistic Loss is used in Gradient Boosting Classifier
 
-
-
-
+Mean Squared Error is used in Gradient Boosting Regressor
 
 
